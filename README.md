@@ -5,6 +5,9 @@
 Utilize nossas APIs de teste para acessar canais de TV IPTV e realizar testes de conexão SSH com facilidade.
 
 
+Certifique-se de substituir os espaços reservados (como `SEU_TOKEN`, `SEU_USUARIO`, `SUA_SENHA`, `SEU_IP_SERVER` e `LINK_DO_SEU_PAINEL`) 
+
+
 ```markdown
 # API de Teste IPTV e SSH
 
@@ -54,6 +57,3 @@ Atenciosamente,
 
 [BATMONN](https://telegram.me/BATMONN)
 ```
-
-Certifique-se de substituir os espaços reservados (como `SEU_TOKEN`, `SEU_USUARIO`, `SUA_SENHA`, `SEU_IP_SERVER` e `LINK_DO_SEU_PAINEL`) pelos valores reais. Você pode copiar e colar este conteúdo em um arquivo `README.md` no seu repositório no GitHub.
-Este texto apresenta todas as APIs disponíveis e fornece os endpoints e as instruções para o uso de cada uma delas, juntamente com uma breve nota sobre a importância da segurança das credenciais. Se você tiver alguma dúvida ou precisar de mais informações, não hesite em perguntar.
