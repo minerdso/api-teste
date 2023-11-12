@@ -32,31 +32,31 @@ Para utilizar as APIs, siga as instruções abaixo para cada uma delas:
 
 ### API IPTV Kofffice
 
-- **Endpoint**: [API IPTV Kofffice](http://api.revenda3ssh.tk:8080/api?type=iptv2&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
+- **Endpoint**: [API IPTV Kofffice](http://teste.minerdapifoda.xyz:8080/api?type=iptv2&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
 
 Substitua `SEU_TOKEN`, `LINK_DO_SEU_PAINEL`, `SEU_USUARIO` e `SUA_SENHA` pelos seus detalhes de acesso.
 
 ### API IPTV Opainel
 
-- **Endpoint**: [API IPTV Opainel](http://api.revenda3ssh.tk:8080/api?type=iptv3&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
+- **Endpoint**: [API IPTV Opainel](http://teste.minerdapifoda.xyz:8080/api?type=iptv3&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
 
 Substitua `SEU_TOKEN`, `LINK_DO_SEU_PAINEL`, `SEU_USUARIO` e `SUA_SENHA` pelos seus detalhes de acesso.
 
 ### API SSH
 
-- **Endpoint**: [API SSH](http://api.revenda3ssh.tk:8080/api?type=ssh&token=SEU_TOKEN&query=teste&server_ofc=SEU_IP_SERVER&senha_ofc=SUA_SENHA)
+- **Endpoint**: [API SSH](http://teste.minerdapifoda.xyz:8080/api?type=ssh&token=SEU_TOKEN&query=teste&server_ofc=SEU_IP_SERVER&senha_ofc=SUA_SENHA)
 
 Substitua `SEU_TOKEN`, `SEU_IP_SERVER` e `SUA_SENHA` pelos seus detalhes de acesso ao servidor SSH.
 
 ### API Beesp2p
 
-- **Endpoint**: [API Beesp2p](http://api.revenda3ssh.tk:8080/api?type=beesp2p&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
+- **Endpoint**: [API Beesp2p](http://teste.minerdapifoda.xyz:8080/api?type=beesp2p&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
 
 Substitua `SEU_TOKEN`, `LINK_DO_SEU_PAINEL`, `SEU_USUARIO` e `SUA_SENHA` pelos seus detalhes de acesso.
 
 ### API Beestv
 
-- **Endpoint**: [API Beestv](http://api.revenda3ssh.tk:8080/api?type=beestv&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
+- **Endpoint**: [API Beestv](http://teste.minerdapifoda.xyz:8080/api?type=beestv&token=SEU_TOKEN&query=teste&loginUrltv=LINK_DO_SEU_PAINEL&usernametv=SEU_USUARIO&passwordtv=SUA_SENHA)
 
 Substitua `SEU_TOKEN` pelo seu
 
